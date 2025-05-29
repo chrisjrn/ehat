@@ -9,7 +9,7 @@ _Everyone Has a Take_ (EHAT) is a [presently theoretical] invitation-only aftern
 
 To attend, you must have a Take that you are willing to share in front of an audience. A Take can be a controversial opinion, an uncommon observation, or unexpected idea that will cause people to Think. A good rule of thumb is that a Take is a Take if you think at least one person in the audience will think you're completely wrong and will want to argue with you about it.
 
-You must be willing to present your take for 30ish, 15ish, or 5ish minutes.
+You must be willing to present your Take for 30ish, 15ish, or 5ish minutes.
 
 You'll be offered the opportunity to defend your Take against audience questions. You might have a greater chance of being offered a spot if you're willing to defend your Take, you might not, it will depend on what everyone else submits.
 
@@ -49,7 +49,7 @@ Other topics are acceptable, but if we can pull together a theme/some themes, ev
 If you are averse to using Google Forms, [send us an email](mailto:takes@ehat.fyi) with answers to the following questions:
 
 * Your name
-* What is your take? (3-5 sentences)
+* What is your Take? (3-5 sentences)
 * How long are you willing to present your Take for? (30ish/15ish/5ish minutes)
 * Are you willing to defend your Take in the form of impromptu questions from the audience after your Take?
 * How far north in the Bay Area are you willing to travel for this?
