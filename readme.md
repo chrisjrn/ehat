@@ -7,7 +7,7 @@ _Everyone Has a Take_ (EHAT) is a [presently theoretical] invitation-only aftern
 
 ### You must have a Take
 
-To attend, you must have a Take that you are willing to share in front of an audience. A Take can be a controversial opinion, an uncommon observation, or unexpected that will cause people to Think. A good rule of thumb is that a Take is a Take if you think at least one person in the audience will think you're completely wrong and will want to argue with you about it.
+To attend, you must have a Take that you are willing to share in front of an audience. A Take can be a controversial opinion, an uncommon observation, or unexpected idea that will cause people to Think. A good rule of thumb is that a Take is a Take if you think at least one person in the audience will think you're completely wrong and will want to argue with you about it.
 
 You must be willing to present your take for 30ish, 15ish, or 5ish minutes.
 
